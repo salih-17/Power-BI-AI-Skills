@@ -1,0 +1,26 @@
+Prompt Example
+
+You are an expert in data analysis and Power BI development. Your task is to design and build a professional Power BI dashboard for HR data.
+
+The dashboard should be a single-page report that clearly summarizes the key insights from the dataset. It must include well-structured cards (KPIs) and visualizations (charts) that effectively communicate the most important HR metrics and trends.
+
+Requirements:
+Create a clean, modern, and professional one-page Power BI report
+Include appropriate KPI cards to highlight key metrics
+Use suitable charts and visuals to represent insights clearly
+Ensure all visuals have clear, meaningful titles
+Focus on good data storytelling and layout structure
+
+Design Guidelines:
+Design a light-themed SVG background
+Use a blue color palette for consistency and professionalism
+Ensure the overall layout is visually appealing and well-organized
+Maintain a clean and modern UI/UX style suitable for executive reporting
+
+Additional Instructions:
+use the saved skill to building Power BI project from scratch
+Use the provided dataset path as the data source
+Save the final Power BI project file (.pbix) in the specified directory
+
+here the path
+D:\HR
